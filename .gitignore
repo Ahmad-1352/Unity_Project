@@ -1,6 +1,22 @@
-/Library
-/Logs
-/Packages
-/ProjectSettings
-/UserSetting
+/.idea
+/.vs
+/.vscode
+.[Dd] [Ss]_[Ss]tore
+
+/[Tt]emp
+/[Uu]ser[Ss]etting
+/[Pp]roject[Ss]etting
+/[Pp]ackages
+/[Oo]bj
+/[Oo]bjs
+/[Ll]ogs
+/[Ll]ibrary
+/[Ll]ibraries
+/[Bb]uild
+/[Bb]uilds
+UserSettings/
+./
 *.meta
+
+*.sln
+*.csproj
